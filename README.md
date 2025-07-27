@@ -40,8 +40,11 @@
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white)
 
-![Andrew's GitHub Stats](https://github-readme-stats.vercel.app/api?username=andrewexe&show_icons=true&theme=algolia&include_all_commits=true)
+
+<p align="center">
+  ![Andrew's GitHub Stats](https://github-readme-stats.vercel.app/api?username=andrewexe&show_icons=true&theme=algolia&include_all_commits=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewexe&layout=compact&langs_count=8&theme=algolia)
+</p>
 
 
 
