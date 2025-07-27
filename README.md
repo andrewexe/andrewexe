@@ -42,8 +42,9 @@
 
 
 <p align="center">
-  ![Andrew's GitHub Stats](https://github-readme-stats.vercel.app/api?username=andrewexe&show_icons=true&theme=algolia&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewexe&layout=compact&langs_count=8&theme=algolia)
+  <img width="450" src="https://github-readme-stats.vercel.app/api?username=andrewexe&show_icons=true&theme=algolia&include_all_commits=true" />
+  <br/>
+  <img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewexe&layout=compact&langs_count=8&theme=algolia" />
 </p>
 
 
