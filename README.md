@@ -42,9 +42,10 @@
 
 
 
-<img width="450" src="https://github-readme-stats.vercel.app/api?username=andrewexe&show_icons=true&theme=algolia&include_all_commits=true" />
-<br/>
-<img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewexe&layout=compact&langs_count=8&theme=algolia" />
+<p align="left">
+  <img width="440" src="https://github-readme-stats.vercel.app/api?username=andrewexe&show_icons=true&theme=algolia&include_all_commits=true" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewexe&layout=compact&langs_count=8&theme=algolia" />
+</p>
 
 
 
