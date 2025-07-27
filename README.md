@@ -41,11 +41,11 @@
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white)
 
 
-<p align="center">
-  <img width="450" src="https://github-readme-stats.vercel.app/api?username=andrewexe&show_icons=true&theme=algolia&include_all_commits=true" />
-  <br/>
-  <img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewexe&layout=compact&langs_count=8&theme=algolia" />
-</p>
+
+<img width="450" src="https://github-readme-stats.vercel.app/api?username=andrewexe&show_icons=true&theme=algolia&include_all_commits=true" />
+<br/>
+<img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewexe&layout=compact&langs_count=8&theme=algolia" />
+
 
 
 
