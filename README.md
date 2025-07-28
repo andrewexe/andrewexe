@@ -43,8 +43,7 @@
 
 
 <p align="left">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=andrewexe&show_icons=true&theme=algolia&include_all_commits=true" />
-  <img width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewexe&layout=compact&langs_count=8&theme=algolia" />
+  <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewexe&layout=compact&langs_count=8&theme=algolia" />
 </p>
 
 
