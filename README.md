@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Andrew
+<h1 style="font-size: 36px;">Hi there 👋, I'm Andrew</h1>
 
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:andrew03huang@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/andrew-huang-uf/)
