@@ -43,7 +43,7 @@
 
 <p align="left">
   <img width="49%" src="https://streak-stats.demolab.com/?user=andrewexe&theme=algolia&hide_border=false" alt="GitHub Streak" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewexe&layout=compact&langs_count=8&theme=algolia" />
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewexe&layout=compact&langs_count=8&theme=algolia" />
 </p>
 
 
