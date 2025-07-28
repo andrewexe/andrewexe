@@ -39,8 +39,11 @@
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white)
 
-<p align="left">
-  <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewexe&layout=compact&langs_count=8&theme=algolia" />
+
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=andrewexe&theme=algolia&hide_border=false" alt="GitHub Streak" />
+  <img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewexe&layout=compact&langs_count=8&theme=algolia" />
 </p>
 
 
