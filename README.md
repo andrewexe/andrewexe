@@ -1,5 +1,13 @@
 <h1 style="font-size: 36px;">Hi there 👋, I'm Andrew</h1>
 
+<h3 align="left">About Me</h3>
+
+Hey! I’m a Computer Science and Math student at the University of Florida who loves building things that make life easier.  
+
+I’ve worked on everything from AI-powered tools that cut hours off code reviews, to microservices that keep data flowing smoothly in the cloud.
+
+I’m always excited to explore new tech, collaborate with others, and learn something along the way 🚀.
+
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:andrew03huang@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/andrew-huang-uf/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://andrew-huang.vercel.app/)
